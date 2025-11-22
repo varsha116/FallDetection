@@ -1,0 +1,9 @@
+ultralytics==8.3.70
+transformers==4.48.2
+torch>=2.2.0
+torchvision>=0.17.0
+opencv-python>=4.10.0
+numpy>=1.26.0
+pillow>=10.0.0
+gradio>=4.44.0
+
